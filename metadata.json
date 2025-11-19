@@ -1,0 +1,8 @@
+{
+  "name": "Signappse",
+  "description": "Real-time ASL learning platform with computer vision feedback and 3D avatar interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
